@@ -2,8 +2,8 @@
 
 Clean, fast, mobile-first Tic Tac Toe built with Next.js. Player 1 = **O** (blue), Player 2 / BOT = **X** (red). `O` goes first and its indicator stays.
 
-**Live:** <a href="https://faizan.is-a.dev/oxo-game/">https://faizan.is-a.dev/oxo-game/</a> · <a href="https://faizan-2005.github.io/oxo-game/">https://faizan-2005.github.io/oxo-game/</a>
-**Repo:** <a href="https://github.com/faizan-2005/oxo-game">https://github.com/faizan-2005/oxo-game</a>
+**Live:** <a href="https://faizan.is-a.dev/oxo-game/">Live</a> ·
+**Repo:** <a href="https://github.com/faizan-2005/oxo-game">Repo</a>
 
 ## Screenshots
 
