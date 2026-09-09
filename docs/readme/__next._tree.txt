@@ -1,0 +1,7 @@
+:HL["/oxo-game/_next/static/chunks/0g_ttem7uoyom.css","style"]
+:HL["/oxo-game/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["./screenshots/game.png","image"]
+:HL["./screenshots/win.png","image"]
+:HL["./screenshots/loss.png","image"]
+:HL["./screenshots/draw.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"readme","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"yQJlgyZ7UN-vZr5v1m0SB"}
