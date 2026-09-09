@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@theme inline { --font-sans: var(--font-sans); }
+html { scrollbar-gutter: stable; }
+body { font-family: var(--font-sans), system-ui, sans-serif; background: #f2f2f2; -webkit-text-size-adjust: 100%; }
+* { -webkit-tap-highlight-color: transparent; }
+@keyframes draw { from{stroke-dashoffset:100} to{stroke-dashoffset:0} }
+@keyframes pop { 0%{transform:scale(.78)} 50%{transform:scale(1.08)} 100%{transform:scale(1)} }
+@keyframes drawFade { 0%{opacity:1;transform:scale(1)} 40%{opacity:0.55;transform:scale(0.92)} 100%{opacity:0.72;transform:scale(0.96)} }
+@keyframes tieShake { 0%,100%{transform:translateX(0)} 20%{transform:translateX(-1.5px) rotate(-0.6deg)} 40%{transform:translateX(1.5px) rotate(0.6deg)} 60%{transform:translateX(-1px)} 80%{transform:translateX(1px)} }
+@keyframes bannerIn { from{opacity:0;transform:translateY(-50%) scale(0.96)} to{opacity:1;transform:translateY(-50%) scale(1)} }
